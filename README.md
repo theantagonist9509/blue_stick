@@ -1,6 +1,7 @@
 # BlueStick
 
-A simple Bluetooth LE analog joystick app for communicating with hobby electronics components like the HM-10 blutooth module
+A simple Bluetooth LE analog joystick app for communicating with hobby electronics components like the HM-10 blutooth module, built using the Flutter framework
+
 NOTE: This app will NOT work with bluetooth modules like the HC-05; those are based on the Bluetooth Classic protocol while, for example, the HM-10 is based on the Bluetooth LE protocol.
 
 ## Usage
